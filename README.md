@@ -1,4 +1,4 @@
-# GO_-Concurrency-Base
+# GO_Concurrency-Base
 
 - 进程: 并发执行的程序的【基本单位】
 - 线程: 进程执行的【基本单元】
